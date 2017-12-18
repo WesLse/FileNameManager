@@ -1,0 +1,9 @@
+D:\C#\ChangeName\ChangeName\bin\Release\ChangeName.exe.config
+D:\C#\ChangeName\ChangeName\bin\Release\ChangeName.exe
+D:\C#\ChangeName\ChangeName\bin\Release\ChangeName.pdb
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.csprojResolveAssemblyReference.cache
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.Form1.resources
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.Properties.Resources.resources
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.csproj.GenerateResource.Cache
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.exe
+D:\C#\ChangeName\ChangeName\obj\Release\ChangeName.pdb
